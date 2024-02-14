@@ -1,0 +1,2 @@
+*.uasset merge=binary
+*.umap merge=binary
