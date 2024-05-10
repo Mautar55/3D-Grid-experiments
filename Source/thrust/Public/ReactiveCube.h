@@ -9,7 +9,7 @@
 #include "ReactiveCube.generated.h"
 
 UENUM(BlueprintType)
-enum class CubeState {
+enum class CubeState: uint8 {
 	Free,
 	Edit
 };
